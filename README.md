@@ -15,4 +15,3 @@
 
 ## Certification
 ![image](https://github.com/user-attachments/assets/ce7bff7b-c4bf-4ccd-9b36-28b2b20520c8)
-![Uploading image.png…]()
